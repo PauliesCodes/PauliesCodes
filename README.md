@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @PauliesCodes
-- 👀 I’m interested in 3D
+- 👋 Hi, I’m @Paulie
+- 👀 I’m interested in Unity and 3D design
 - 🌱 I'm suffering right now
-- 💞️ I’m looking to collaborate on good FPS game :D
+- 💞️ I’m looking to collaborate on ---
 - 📫 How to reach me: You don't ;)
 
 <!---
