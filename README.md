@@ -1,3 +1,3 @@
-Jsem mladý nadšenec do technologií, počítačů a umělé inteligence. Už několik let se věnuji 3D modelování a 3D tisku, během kterých jsem získal mnoho zkušeností i nápadů, které jsem uplatnil ve svých vlastních projektech. Mezi mé nejvýznamnější projekty patří dvě 3D tiskárny, které vznikly kompletní přestavbou z mé vůbec první tiskárny.
+Jsem mladý nadšenec do technologií, počítačů a designu. Už několik let se věnuji 3D modelování a 3D tisku, během kterých jsem získal mnoho zkušeností i nápadů, které jsem uplatnil ve svých vlastních projektech. Mezi mé nejvýznamnější projekty patří dvě 3D tiskárny, které vznikly kompletní přestavbou z mé vůbec první tiskárny.
 
 Dobře se orientuji také v oblasti počítačů – jak po hardwarové stránce (stavba PC, diagnostika a opravy), tak po stránce softwarové (Windows, sítě, programování, mikroprocesory). Jsem komunikativní a umím srozumitelně vysvětlit i složitější technické koncepty lidem bez technického backgroundu.
